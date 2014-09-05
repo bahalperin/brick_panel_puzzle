@@ -1,7 +1,7 @@
 """brick_panel.py calculates the number of unique panels of a specified
 length and height that can be made up of two different types (lengths) of bricks.
 The only additional constraint is that the edges of the bricks of adjacent
-rows can't line up (See README for visual).  
+rows can't line up (See Puzzle pdf for visual).  
 
 Calculation is performed by treating the number of panels that can be made
 starting with a unique row as a tree.  The starting row is the root of the tree.
